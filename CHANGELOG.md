@@ -1,5 +1,3 @@
 # Change Log
 
-v0.1.0 - Add Nord Light Brighter Color
-
-v0.1.1 - Add bold style for Nord Light Brighter
+v0.1.0 - Fork from [huytd/vscode-nord-light](https://github.com/huytd/vscode-nord-light)

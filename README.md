@@ -1,16 +1,12 @@
-# Nord Light Theme
+# Nord Light
 
 Nord Light:
 
-![](screenshot.png)
-
-Nord Light Brighter:
-
-![](brighter-screenshot.png)
+![](https://github.com/gaojr/vscode-nord-light/raw/master/screenshot.png)
 
 If you want to add bold style for keywords, use this:
 
-```
+```json
 {
     "scope": [
         "keyword",
@@ -24,3 +20,6 @@ If you want to add bold style for keywords, use this:
     }
 }
 ```
+
+inspired by:
+* [huytd/vscode-nord-light](https://github.com/huytd/vscode-nord-light)
